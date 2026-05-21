@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Bienvenid@ a mi perfil
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34F26,100:1572B6&height=120&section=header&text=Carlos%20Mauricio%20Viveros%20Claure&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34F26,50:C45C26,100:1572B6&height=220&section=header&text=Carlos%20Mauricio%20Viveros%20Claure&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Ingeniero%20de%20Sistemas%20%7C%20Desarrollador%20Web&descSize=18&descAlignY=62&descAlign=50" alt="Banner" />
 
 </div>
 
@@ -16,22 +16,12 @@ Soy **Ingeniero de Sistemas** y desarrollador web apasionado por la tecnología 
 
 ### 🌐 Conectemos
 
-<div align="center">
-
-  <a href="https://www.tiktok.com/@maurivc23" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://www.facebook.com/carlosmauricio.viverosclaure.9/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.linkedin.com/in/mauricio-viveros-5079bb329" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-</div>
+<p align="center">
+<a href="https://www.tiktok.com/@maurivc23" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a><!--
+--><a href="https://www.facebook.com/carlosmauricio.viverosclaure.9/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a><!--
+--><a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><!--
+--><a href="https://www.linkedin.com/in/mauricio-viveros-5079bb329" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
@@ -73,13 +63,6 @@ Soy **Ingeniero de Sistemas** y desarrollador web apasionado por la tecnología 
 ---
 
 ### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MauriVC&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauriVC&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-
-</div>
 
 <div align="center">
 
